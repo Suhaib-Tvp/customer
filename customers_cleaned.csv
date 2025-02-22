@@ -1,0 +1,82 @@
+customer_id,name,email,phone,age,country,purchase_amount
+101,Charlie Brown,sophia@email.com,,62,Brazil,967.23
+102,Sophia Miller,charlie@email.com,,22,Canada,601.96
+103,Alice Wong,alicewong@email.com,8039583310,51,Japan,496.1499999999998
+104,Sophia Miller,olivia@email.com,3831324217,64,Japan,582.08
+105,Jane Smith,sophia@email.com,,36,Canada,142.29
+106,Emma Watson,liam@email.com,2195743802,21,Germany,496.1499999999998
+107,John Doe,johndoe@email.com,,51,Not Specified,832.51
+109,Charlie Brown,liam@email.com,316009006,26,Italy,953.72
+110,John Doe,alicewong@email.com,1876602429,53,India,496.1499999999998
+112,Sam O'Neil,charlie@email.com,8054692877,32,Usa,727.27
+113,Sam O'Neil,charlie@email.com,8845228853,34,Japan,233.31
+114,Bob Lee,janesmith@email.com,1575349436,43,India,496.1499999999998
+115,Alice Wong,sophia@email.com,6920543643,26,Japan,497.06
+116,Emma Watson,sophia@email.com,3132267863,18,Germany,172.32
+119,Unknown,olivia@email.com,489362287,22,Usa,378.7
+120,Charlie Brown,sophia@email.com,4132851905,62,Germany,297.06
+121,Olivia Taylor,charlie@email.com,223914070,22,Not Specified,182.05
+122,Bob Lee,charlie@email.com,3627367221,37,Australia,142.57
+123,Olivia Taylor,janesmith@email.com,350032425,41,Usa,161.28
+124,Unknown,boblee@email.com,5026441064,39,Germany,203.45
+125,Sam O'Neil,sophia@email.com,8419033132,37,Brazil,708.95
+126,Liam Neeson,boblee@email.com,4357394093,35,Germany,290.52
+127,Sophia Miller,janesmith@email.com,3166189339,65,Not Specified,673.97
+128,Charlie Brown,olivia@email.com,9752606818,51,Canada,263.66
+129,Bob Lee,olivia@email.com,8668175634,61,Not Specified,451.09
+131,Charlie Brown,boblee@email.com,1763852535,64,Uk,496.1499999999998
+132,Liam Neeson,emma.w@email.com,7389098193,42,India,814.9
+133,Emma Watson,emma.w@email.com,8627937859,23,Canada,496.1499999999998
+135,Bob Lee,boblee@email.com,435075884,23,Italy,552.35
+136,Emma Watson,sophia@email.com,9531417770,54,Uk,759.47
+137,Bob Lee,charlie@email.com,6848719075,20,Uk,236.85
+140,Olivia Taylor,alicewong@email.com,3892907470,46,Usa,676.45
+142,Alice Wong,olivia@email.com,8791565723,62,Brazil,718.76
+144,Emma Watson,janesmith@email.com,,65,Italy,842.37
+145,John Doe,sophia@email.com,8220037227,28,India,941.42
+146,Charlie Brown,charlie@email.com,3851015004,40,India,504.33
+147,Bob Lee,sophia@email.com,,32,India,459.83
+148,Charlie Brown,johndoe@email.com,,39,Australia,722.41
+151,Sam O'Neil,liam@email.com,,64,Uk,155.82
+153,Bob Lee,johndoe@email.com,887146816,29,Usa,238.57
+154,John Doe,sophia@email.com,8152933869,34,Usa,609.36
+156,Unknown,olivia@email.com,2741231198,38,Uk,636.32
+157,Sam O'Neil,alicewong@email.com,9387289544,37,Italy,214.29
+158,John Doe,sophia@email.com,,33,Italy,496.1499999999998
+159,Liam Neeson,charlie@email.com,5381424101,27,India,797.78
+160,Emma Watson,alicewong@email.com,1444244480,65,Italy,940.37
+161,Charlie Brown,liam@email.com,7855213928,53,Not Specified,143.87
+162,Sophia Miller,janesmith@email.com,9539536042,47,Canada,400.61
+164,Alice Wong,liam@email.com,5049089601,50,Uk,593.68
+165,Sam O'Neil,charlie@email.com,8967551162,31,France,491.72
+166,Sam O'Neil,johndoe@email.com,4784781138,45,Uk,496.1499999999998
+167,John Doe,olivia@email.com,,36,Italy,978.03
+168,Sam O'Neil,johndoe@email.com,2741381939,26,Italy,96.76
+169,Olivia Taylor,sophia@email.com,3959382003,29,Not Specified,552.03
+171,Sophia Miller,johndoe@email.com,7651923306,47,Usa,250.17
+173,John Doe,charlie@email.com,4929407686,57,Usa,232.01
+174,Charlie Brown,liam@email.com,8863422585,60,Australia,496.1499999999998
+175,Bob Lee,alicewong@email.com,8249345411,24,Italy,496.1499999999998
+176,Sophia Miller,janesmith@email.com,4338894362,23,India,748.34
+177,Charlie Brown,charlie@email.com,628321758,43,Uk,496.1499999999998
+178,Sam O'Neil,charlie@email.com,3939257845,36,Japan,767.78
+179,Unknown,olivia@email.com,9513113932,39,Usa,542.92
+180,Bob Lee,emma.w@email.com,5515828287,33,Not Specified,81.37
+182,Emma Watson,olivia@email.com,8296335580,49,Australia,599.48
+183,Bob Lee,alicewong@email.com,1965208976,65,Australia,885.4
+184,Charlie Brown,liam@email.com,1126821794,48,Brazil,92.42
+185,Olivia Taylor,boblee@email.com,223003885,26,Australia,407.1
+186,Charlie Brown,boblee@email.com,3882778647,29,Brazil,497.07
+187,Alice Wong,emma.w@email.com,,24,Japan,171.74
+188,Jane Smith,emma.w@email.com,,31,Usa,938.85
+189,Sophia Miller,alicewong@email.com,2769534863,32,Canada,429.59
+191,Charlie Brown,alicewong@email.com,4015366719,33,Australia,496.1499999999998
+192,Liam Neeson,emma.w@email.com,3940899897,37,France,310.74
+193,Olivia Taylor,olivia@email.com,7175275040,19,Uk,531.05
+194,Emma Watson,janesmith@email.com,,34,Not Specified,752.93
+195,Charlie Brown,charlie@email.com,,34,Australia,496.1499999999998
+196,Sophia Miller,liam@email.com,3582232842,30,Japan,857.45
+197,Olivia Taylor,johndoe@email.com,4024488516,19,Brazil,335.38
+198,Sam O'Neil,liam@email.com,,50,Brazil,284.45
+199,Liam Neeson,boblee@email.com,4968134486,45,Australia,393.32
+200,Bob Lee,johndoe@email.com,6338243653,29,Australia,53.78
